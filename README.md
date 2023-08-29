@@ -1,7 +1,6 @@
 ### Привет!
 
-- [Портфолио](https://github.com/nastyaist/portfolio) <a href="[http://example.com](https://github.com/nastyaist/portfolio)" target="_blank">Портфолио</a>
-[link name](https://github.com/nastyaist/portfolio){:target="_blank"}
+- [Портфолио](https://github.com/nastyaist/portfolio)
 - [Резюме](https://drive.google.com/file/d/1e3UZ3RZmYM360AuHXqCxQgOFFsWR-jE3/view?usp=drive_link)
 
 Контакт: [t.me/nastia_ist](https://t.me/nastia_ist)
