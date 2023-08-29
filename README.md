@@ -1,5 +1,7 @@
 ### Привет!
 
+[Портфолио](https://github.com/nastyaist/portfolio)
+[Резюме](https://drive.google.com/file/d/1e3UZ3RZmYM360AuHXqCxQgOFFsWR-jE3/view?usp=drive_link).
 <!--
 **nastyaist/nastyaist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
