@@ -13,8 +13,8 @@
 
 Работая на фрилансе тестировала вёрстку, адаптивность, кроссбраузерность сайтов, тестировала рассылку. В рамках участия в некоммерческом проекте тестировала REST API в Postman, составляла чек-листы и тест-кейсы, составляла и тестировала требования.
 
-- [Моё резюме](https://drive.google.com/file/d/1e3UZ3RZmYM360AuHXqCxQgOFFsWR-jE3/view?usp=drive_link)
-- и [портфолио](https://github.com/nastyaist/portfolio)
+- [Резюме](https://drive.google.com/file/d/1e3UZ3RZmYM360AuHXqCxQgOFFsWR-jE3/view?usp=drive_link)
+- [Портфолио](https://github.com/nastyaist/portfolio)
 
 Знаю SQL на уровне написания стандартных запросов, Python (начальный уровень). 
 
